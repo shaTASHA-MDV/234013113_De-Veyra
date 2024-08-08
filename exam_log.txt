@@ -1,0 +1,55 @@
+    1  cd 234013113_De-Veyra
+    2  cd
+    3  cd projects/234013113_De-Veyra
+    4  cd 234013113_De-Veyra
+    5  clear .bash_history
+    6  clea
+    7  clear
+    8  mkdir linux_practice
+    9  cd linux_practice
+   10  touch notes.txt
+   11  nano touch notes.txt
+   12  echo <"Hello, Linux!"> notes.txt
+   13  clear
+   14  echo "Hello, Linux!" notes.txt
+   15  nano notes.txt
+   16  rm notes.txt
+   17  ls
+   18  touch notes.txt
+   19  ls
+   20  cd notes.txt
+   21  cd notes
+   22  cat notes.txt
+   23  echo "Hello, Linux!"
+   24  echo "Hello, Linux!" > notes.txt
+   25  nano notes.txt
+   26  echo "This is a practical exam" >> notes.txt
+   27  head notes.txt
+   28  tail notes.txt
+   29  head 1 notes.txt
+   30  mkdir subdir
+   31  mv notes.txt subdir
+   32  cd subdir
+   33  ls
+   34  mv subdir practice_subdir
+   35  cd ..
+   36  mv subdir practice_subdir
+   37  ls
+   38  cd practice_subdir
+   39  cp notes.txt linux_practice
+   40  date
+   41  uptime
+   42  du -sh ~
+   43  ssh -v
+   44  php -version
+   45  mysql --version
+   46  apache2 -version
+   47  apache -version
+   48  apachectl -v
+   49  python -version
+   50  python -v
+   51  java -v
+   52  java -version
+   53  cd ../..
+   54  git checkout -b finalexam
+   55  history > exam_log.txt
